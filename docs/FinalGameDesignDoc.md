@@ -48,7 +48,10 @@ As the visuals are not completely done, the intended plan was to have a diverse 
 
 
 ---
+## Change Log
+I changed many aspects along the way. Initially I planned on each tile being an action, but I quickly changed that to one action point for one movement or attack action. I initially wanted a set board, but after the physical prototype I realized that the changing environment would increase the depth of the game.  I also moved away from a static home city, and instead relied on moving the commandant to a strategically viable position for both defense and to apply the buff to defensive positions.  I also changed the UI, i initially planned on having a list view of the units on either side of the board, but instead went with tracked unit names and health and has a scrolling damage log on the left hand side to track the actions of the units.
 
+---
 ## Core Gameplay Mechanics
 
 ### Primary Mechanics
@@ -375,7 +378,8 @@ concerned about the Scout troop class, as stealth is hard when both players get 
 
 evaluate the class, I may replace it with a heavy artillery class, such as trebuchets.
 
-
+## Change Log
+I changed alot 
 
 
 ---
